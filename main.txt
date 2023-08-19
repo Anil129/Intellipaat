@@ -1,1 +1,1 @@
-This is to test github trigger on Jenkins master for test branch. 
+This is for testing github trigger on Jenkins master for test branch. 
