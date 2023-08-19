@@ -1,1 +1,1 @@
-This is for testing upstream and downstream jobs on Jenkins.
+This is for testing upstream and downstream jobs.
